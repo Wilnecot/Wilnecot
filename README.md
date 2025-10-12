@@ -5,14 +5,13 @@
 
 <h1 align="center">Hola, soy Wilmer Ricardo Urda 👋</h1>
 <p align="center">
-  Tecnólogo en Control Ambiental · Est. Ing. Agroforestal · Desarrollador (Python · Android/Kotlin) · Apicultor
+ Ing. Agroforestal . Tecnólogo en Control Ambiental · Analisis y Desarrollo de Software · Data Analyst. 
 </p>
 
 <p align="center">
   <a href="https://github.com/Wilnecot">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Wilnecot?logo=github&label=GitHub&style=for-the-badge">
   </a>
-  <img alt="Focus: Apicultura · Software · Ambiente" src="https://img.shields.io/badge/Focus-Apicultura·Software·Ambiente-0B0B0E?style=for-the-badge">
   <img alt="Hecho en Colombia" src="https://img.shields.io/badge/Made_in-Colombia-FFD54F?style=for-the-badge">
 </p>
 
@@ -27,10 +26,10 @@
     https://github.com/Wilnecot/GA7-220501096-AA5-EV01-Construcci-n-de-API
 
 - **Mente de Negocios (YouTube automatizado)**  
-  Canal de finanzas y negocios con generación de guiones en Python y TTS. *(Agrega el enlace real de tu canal)*
+  Canal de finanzas y negocios con generación de guiones en Python y TTS. *(www.youtube.com/@MenteNeg)*
 
 - **WilmerFly (Fotografía y drones)**  
-  Fotogrametría con DJI Mini 3, paisajes y tomas aéreas. *(Agrega tu portafolio o IG/YouTube real)*
+  Fotogrametría con DJI Mini 3, paisajes y tomas aéreas. *(www.youtube.com/@WilmerFlyl)*
 
 ---
 
@@ -71,22 +70,11 @@
 ---
 
 ## 📬 Contacto
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](wricardo.conhitec@gmail.com)  
+- ✉️ Email: **(tu corr)**  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/wilmer-ricardo-urda-267624b2/)  
+   
 
-- ✉️ Email: **(tu correo preferido)**  
-- 💼 LinkedIn: **(tu URL real de LinkedIn)**  
-- 🐝 ApiMarket / SGApiarios: **(URL o landing si ya la tienes)**  
-- 🎥 YouTube — *Mente de Negocios*: **(enlace real)**  
-- 🚁 WilmerFly: **(enlace real)**
-
-> 💡 **Checklist antes de publicar**  
-> 1) Cambia los campos de contacto por tus enlaces reales.  
-> 2) Agrega más repos en “Proyectos destacados”.  
-> 3) Sube el `banner.svg` junto al `README.md` para que se vea en la cabecera.
-
----
-
-### 🎨 Paleta usada
-- **Negro** `#0B0B0E` · **Dorado miel** `#D4AF37` · **Blanco** `#FFFFFF`
 
 > Si prefieres PNG, puedes exportar el `banner.svg` desde Inkscape/Illustrator o usar una web de conversión.
 
