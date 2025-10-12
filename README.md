@@ -21,7 +21,6 @@
 
 - **Sistema de Gestión de Apiarios (SGApiarios / ApiMarket)**  
   Gestión de colmenas, cosechas, sanidad, trazabilidad y ventas. Roadmap: app Android (Kotlin + Firebase), API, panel web.  
-  Repos: *(añade los que correspondan)*
   - `GA7-220501096-AA5-EV01-Construcción-de-API` → *(API de autenticación / Java Servlets)*  
     https://github.com/Wilnecot/GA7-220501096-AA5-EV01-Construcci-n-de-API
 
@@ -71,10 +70,9 @@
 
 ## 📬 Contacto
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](wricardo.conhitec@gmail.com)  
-- ✉️ Email: **(tu corr)**  
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/wilmer-ricardo-urda-267624b2/)  
    
 
 
-> Si prefieres PNG, puedes exportar el `banner.svg` desde Inkscape/Illustrator o usar una web de conversión.
 
