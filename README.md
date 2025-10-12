@@ -30,9 +30,8 @@ Consolidar **SGApiarios** como producto (freemium + premium) e integrar un **asi
 - Integración de **OpenAI** + **ElevenLabs** para automatizar guiones y narración.
 
 ### 📫 Cómo contactarme
-- 🌐 Portafolio: [tu-link-a-pages-o-landing]
-- 💼 LinkedIn: [tu-perfil]
-- ✉️ Email: [tu-email]
+- 💼 LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOlSW5IdMSKWy7qn6%2F6PREA%3D%3D]
+- ✉️ Email: [wilnecot-20@hotmail.com]
 
 ---
 
