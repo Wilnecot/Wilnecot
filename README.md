@@ -1,17 +1,17 @@
 <h1 align="center">Hola, soy Wilmer Ricardo Urda 👋</h1>
 
 <p align="center">
-Ingeniero Agroforestal | Tecnólogo en Control Ambiental | Desarrollador (Python, Java, Kotlin) <br/>
-Apicultor & fundador de <b>APIMARKET S.A.S.</b> | Datos ambientales & IA aplicada
+Ingeniero Agroforestal | Tecnólogo en Control Ambiental | Desarrollador de Software <br/>
+Apicultor & fundador de <b>APIMARKET S.A.S.</b> | Data Analyst  & IA aplicada
 </p>
 
 ---
 
 ### 🚀 Lo que construyo ahora
-- 📱 **Sistema de Gestión de Apiarios (SGApiarios)** – app móvil en Kotlin + Firebase y backend Java.
+- 📱 **Sistema de Gestión de Apiarios (SGApiarios)** – app móvil en Kotlin + Firebase.
 - 🌫️ **AirQuality-EDA-Colombia** – análisis de PM10/PM2.5 con Python (pandas, matplotlib).
 - 🤖 **Mente de Negocios** – canal automatizado (scripts en Python + TTS con ElevenLabs).
-- 🐝 Línea de productos apícolas (miel, propóleos) con trazabilidad digital.
+
 
 ### 🧰 Stack principal
 - **Lenguajes:** Python, Java (Maven/Servlets), Kotlin, JavaScript/TypeScript
@@ -30,7 +30,8 @@ Consolidar **SGApiarios** como producto (freemium + premium) e integrar un **asi
 - Integración de **OpenAI** + **ElevenLabs** para automatizar guiones y narración.
 
 ### 📫 Cómo contactarme
-- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOlSW5IdMSKWy7qn6%2F6PREA%3D%3D
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOlSW5IdMSKWy7qn6%2F6PREA%3D%3D/)  
+
 - ✉️ Email: wilnecot-20@hotmail.com
 
 ---
