@@ -1,78 +1,44 @@
-<!-- Profile README - Wilmer Ricardo Urda (Wilnecot) -->
-<p align="center">
-  <img src="./banner.svg" alt="Banner - Wilmer Ricardo Urda" width="100%"/>
-</p>
+# Hi, I'm Wilmer Ricardo 👋
 
-<h1 align="center">Hola, soy Wilmer Ricardo Urda 👋</h1>
-<p align="center">
- Ing. Agroforestal . Tecnólogo en Control Ambiental · Analisis y Desarrollo de Software · Data Analyst. 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Wilnecot">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Wilnecot?logo=github&label=GitHub&style=for-the-badge">
-  </a>
-  <img alt="Hecho en Colombia" src="https://img.shields.io/badge/Made_in-Colombia-FFD54F?style=for-the-badge">
-</p>
+**Environmental Engineer turned Data Analyst & Software Developer**  
+📍 Medellín, Colombia
 
 ---
 
-## 🚀 Proyectos destacados
+I have 10+ years of experience in environmental monitoring and technical data analysis. Over time I moved deeper into the data side — automating processes with Python, building ML models, and developing software solutions.
 
-- **Sistema de Gestión de Apiarios (SGApiarios / ApiMarket)**  
-  Gestión de colmenas, cosechas, sanidad, trazabilidad y ventas. Roadmap: app Android (Kotlin + Firebase), API, panel web.  
-  - `GA7-220501096-AA5-EV01-Construcción-de-API` → *(API de autenticación / Java Servlets)*  
-    https://github.com/Wilnecot/GA7-220501096-AA5-EV01-Construcci-n-de-API
-
-- **Mente de Negocios (YouTube automatizado)**  
-  Canal de finanzas y negocios con generación de guiones en Python y TTS. *(www.youtube.com/@MenteNeg)*
-
-- **WilmerFly (Fotografía y drones)**  
-  Fotogrametría con DJI Mini 3, paisajes y tomas aéreas. *(www.youtube.com/@WilmerFlyl)*
+Currently finishing a **Software Analysis & Development** degree at SENA and a **Data Science & Analytics** specialization at UNAD.
 
 ---
 
-## 🧰 Stack & herramientas
+## What I work with
 
-**Lenguajes:** Python, Java, JavaScript, Kotlin, SQL  
-**Frameworks/Librerías:** Android, FastAPI/Flask, React, Maven  
-**Datos/IA:** Pandas, NumPy, Scikit‑learn, Matplotlib, Jupyter  
-**DevOps:** Git/GitHub, CI/CD (GitHub Actions), Docker *(cuando aplique)*  
-**SIG & Medio Ambiente:** QGIS, monitoreo de calidad de aire/ruido
+**Data & ML**  
+Python · pandas · scikit-learn · XGBoost · matplotlib · seaborn
 
----
+**Development**  
+JavaScript · TypeScript · React · SQL (MySQL / PostgreSQL) · Java · Git
 
-## 📊 Ahora mismo estoy…
-
-- Construyendo el **MVP móvil** de SGApiarios (Android + Firebase/Auth).  
-- Afinando **prototipos funcionales y no funcionales** (usabilidad/accesibilidad).  
-- Automatizando **guiones y vídeos** para *Mente de Negocios*.  
-- Profundizando en **Python avanzado** y **Kotlin**.
+**Tools & other**  
+ArcGIS Pro · QGIS · Power BI · Excel · Streamlit
 
 ---
 
-## 🗂️ Cómo trabajo
+## Featured projects
 
-- Diseño primero el **modelo de dominio** (UML, ER).  
-- Defino **requisitos funcionales/no funcionales** y casos de uso.  
-- Itero con **pruebas** (unitarias y de funcionalidad en despliegue).  
-- Documentación limpia (APA 7 cuando aplica) y **versionado en Git**.
-
----
-
-## 📈 Métricas & estado
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wilnecot&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [air-quality-ml](https://github.com/Wilnecot/analisis-pm10-pm25---Machine-Learnig) | PM10/PM2.5 prediction and alert classification using real monitoring data | Python, scikit-learn, XGBoost |
+| [Machine-Learning-clinical-financial](https://github.com/Wilnecot/Machine-Learning-aplicado-a-datos-cl-nicos-y-financieros) | EDA and supervised modeling on clinical and financial datasets | Python, Jupyter |
+| [API-Pipelines](https://github.com/Wilnecot/API-PIPELINES) | Data extraction from APIs to build SQL databases | Python |
+| [SynapTime](https://github.com/Wilnecot/SynapTime--autogesti-n-del-empleado) | Employee self-management web app | TypeScript |
 
 ---
 
-## 📬 Contacto
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](wricardo.conhitec@gmail.com)  
+## About me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/wilmer-ricardo-urda-267624b2/)  
-   
-
+- 🌱 What makes my profile different: I combine real domain expertise in environmental data with hands-on programming skills
+- 🔍 Looking for my first formal role in **data analysis** or **software development**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/wilmer-ricardo-urda-267624b2) · wilnecot-20@hotmail.com
 
 
